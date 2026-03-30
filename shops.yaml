@@ -33,30 +33,30 @@ shops:
 
   # --- ОГОЛОШЕННЯ 3 ---
   - id: "shop-3"
-    category: "Електроніка"
-    name: "ТехноДім"
+    category: ""
+    name: ""
     instagram: "" # Якщо інстаграму немає, просто залиш лапки порожніми
     schedule: |
-      Пн - Сб: 09:00 - 18:00
-      Нд: Вихідний
+      Пн - Сб: 
+      Нд: 
     contactless: true
     wifi: false
-    phone: "+380 67 987 65 43"
-    address: "вул. Молодіжна, 5"
-    map_link: "https://maps.app.goo.gl/твоя_ссылка3"
-    photo: "https://images.unsplash.com/photo-1498049794561-7780e7231661"
+    phone: ""
+    address: "
+    map_link: ""
+    photo: ""
 
   # --- ОГОЛОШЕННЯ 4 ---
   - id: "shop-4"
-    category: "Одяг та взуття"
-    name: "Fashion Boutique"
-    instagram: "https://instagram.com/fashion_boutique"
+    category: ""
+    name: ""
+    instagram: ""
     schedule: |
-      Пн - Нд: 10:00 - 19:00
-      Перерва: 14:00 - 14:30
+      Пн - Нд: 
+      Перерва: 
     contactless: false
     wifi: true
-    phone: "+380 50 111 22 33"
-    address: "просп. Миру, 12"
-    map_link: "https://maps.app.goo.gl/твоя_ссылка4"
-    photo: "https://images.unsplash.com/photo-1441986300917-64674bd600d8"
+    phone: ""
+    address: ""
+    map_link: ""
+    photo: ""
