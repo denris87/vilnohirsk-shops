@@ -10,26 +10,26 @@ shops:
       Перерва: 
     contactless: true
     wifi: true
-    phone: "---"
+    phone: ""
     address: "Площа Героїв (біля ПК)"
     map_link: ""
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-30_22-17-03.jpg?raw=true"
 
   # --- ОГОЛОШЕННЯ 2 ---
   - id: "shop-2"
-    category: "Супермаркет"
-    name: "Сільпо"
-    instagram: "https://instagram.com/silpoua"
+    category: "Будівельний магазин"
+    name: "Квадратний метр"
+    instagram: ""
     schedule: |
-      Пн - Нд: 08:00 - 22:00
-      Без вихідних
-      Без перерви
+      Пн - Пт: 08:00 - 18:00
+      Сб - Нд: 08:00 - 14:00
+      Перерва:
     contactless: true
     wifi: false
-    phone: "0 800 301 707"
-    address: "вул. Садова, 22"
-    map_link: "https://maps.app.goo.gl/твоя_ссылка2"
-    photo: "https://images.unsplash.com/photo-1578916171728-46686eac8d58"
+    phone: "0675675801 (Володимир), 0673427373 (Павло)"
+    address: "вул. Центральна 20"
+    map_link: "https://maps.app.goo.gl/xzm395pr6ZxEEJAu8"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-30_22-24-27.jpg?raw=true"
 
   # --- ОГОЛОШЕННЯ 3 ---
   - id: "shop-3"
