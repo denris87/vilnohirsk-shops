@@ -13,7 +13,7 @@ shops:
     phone: "---"
     address: "Площа Героїв (біля ПК)"
     map_link: ""
-    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-30_22-17-03.jpg"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-30_22-17-03.jpg?raw=true"
 
   # --- ОГОЛОШЕННЯ 2 ---
   - id: "shop-2"
