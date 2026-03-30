@@ -1,4 +1,5 @@
 shops:
+  # --- ОГОЛОШЕННЯ 1 ---
   - id: "shop-1"
     category: "Кав'ярня"
     name: "Кава Брейк"
@@ -13,3 +14,49 @@ shops:
     address: "вул. Центральна, 15"
     map_link: "https://maps.app.goo.gl/твоя_ссылка"
     photo: "https://images.unsplash.com/photo-1554118811-1e0d58224f24"
+
+  # --- ОГОЛОШЕННЯ 2 ---
+  - id: "shop-2"
+    category: "Супермаркет"
+    name: "Сільпо"
+    instagram: "https://instagram.com/silpoua"
+    schedule: |
+      Пн - Нд: 08:00 - 22:00
+      Без вихідних
+      Без перерви
+    contactless: true
+    wifi: false
+    phone: "0 800 301 707"
+    address: "вул. Садова, 22"
+    map_link: "https://maps.app.goo.gl/твоя_ссылка2"
+    photo: "https://images.unsplash.com/photo-1578916171728-46686eac8d58"
+
+  # --- ОГОЛОШЕННЯ 3 ---
+  - id: "shop-3"
+    category: "Електроніка"
+    name: "ТехноДім"
+    instagram: "" # Якщо інстаграму немає, просто залиш лапки порожніми
+    schedule: |
+      Пн - Сб: 09:00 - 18:00
+      Нд: Вихідний
+    contactless: true
+    wifi: false
+    phone: "+380 67 987 65 43"
+    address: "вул. Молодіжна, 5"
+    map_link: "https://maps.app.goo.gl/твоя_ссылка3"
+    photo: "https://images.unsplash.com/photo-1498049794561-7780e7231661"
+
+  # --- ОГОЛОШЕННЯ 4 ---
+  - id: "shop-4"
+    category: "Одяг та взуття"
+    name: "Fashion Boutique"
+    instagram: "https://instagram.com/fashion_boutique"
+    schedule: |
+      Пн - Нд: 10:00 - 19:00
+      Перерва: 14:00 - 14:30
+    contactless: false
+    wifi: true
+    phone: "+380 50 111 22 33"
+    address: "просп. Миру, 12"
+    map_link: "https://maps.app.goo.gl/твоя_ссылка4"
+    photo: "https://images.unsplash.com/photo-1441986300917-64674bd600d8"
