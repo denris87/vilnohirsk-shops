@@ -2,7 +2,7 @@ shops:
   # --- ОГОЛОШЕННЯ 1 ---
   - id: "shop-1"
     category: "Кав'ярня"
-    name: "Coffee Lavka"
+    name: "Coffee Лавка"
     instagram: "https://www.instagram.com/coffee_lavka_vln"
     schedule: |
       Пн - Нд: 08:00 - 21:00
