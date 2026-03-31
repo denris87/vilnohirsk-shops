@@ -3,7 +3,7 @@ shops:
   - id: "shop-1"
     category: "Кав'ярня"
     name: " Coffee Лавка"
-    instagram: "https://www.instagram.com/coffee_lavka_vln"
+    instagram: ""
     schedule: |
       Пн - Нд: 08:00 - 21:00
       Сб - Нд: 09:00 - 21:00
@@ -34,7 +34,7 @@ shops:
   - id: "shop-3"
     category: "Зоомагазин"
     name: "Лапка"
-    instagram: "https://www.instagram.com/lapka_vln" 
+    instagram: "" 
     schedule: |
       Пн — Пт: 09:00 - 19:00
       Сб — Нд: 09:00 - 16:00
@@ -49,7 +49,7 @@ shops:
   - id: "shop-4"
     category: "Ресторан"
     name: "Grill House"
-    instagram: "https://www.instagram.com/grillhouse.food"
+    instagram: ""
     schedule: |
       Пн - Нд: 09:00 - 21:00
       Перерва: 
@@ -64,7 +64,7 @@ shops:
   - id: "shop-5"
     category: "Магазин"
     name: "М’ясний Центр"
-    instagram: "https://www.instagram.com/myasnoy_volnik"
+    instagram: ""
     schedule: |
       Пн - Сб: 09:00 - 20:00
       Нд: 09:00 - 17:00
@@ -79,7 +79,7 @@ shops:
   - id: "shop-6"
     category: "Зоомагазин"
     name: "Пітон"
-    instagram: "https://www.instagram.com/pitonzoomagazin"
+    instagram: ""
     schedule: |
       Пн, Вт, Чт, Пт: 09:00 - 19:00
       Ср: 09:00 - 17:50
@@ -96,7 +96,7 @@ shops:
   - id: "shop-7"
     category: "Рибалка"
     name: "Павільйон «Fishing»"
-    instagram: "https://www.instagram.com/pitonzoomagazin"
+    instagram: ""
     schedule: |
       Вт - Сб: 08.00 - 18.00
       Нд: 08.00 - 12.00
@@ -111,7 +111,7 @@ shops:
   - id: "shop-8"
     category: "Сервісцентр"
     name: "AppleService"
-    instagram: "https://www.instagram.com/appleservice_17"
+    instagram: ""
     schedule: |
       Пн-Нд: 10:30 - 18:00
       Перерва: 12:30 - 14:00
@@ -153,7 +153,7 @@ shops:
     # --- ОГОЛОШЕННЯ 11 ---
   - id: "shop-11"
     category: "Будівельний магазин"
-    name: "Будівельні матеріали "
+    name: "Будівельні матеріали"
     instagram: ""
     schedule: |
       Пн - Пт: 08:30 - 17:30
@@ -227,7 +227,7 @@ shops:
   - id: "shop-16"
     category: "Крамниця"
     name: "DECO flowers"
-    instagram: "https://www.instagram.com/deco.party.vilnohirsk"
+    instagram: ""
     schedule: |
       Пн - Нд: 08:00 - 19:00
       Перерва:
@@ -241,7 +241,7 @@ shops:
   - id: "shop-17"
     category: "Більярд"
     name: "Більярд"
-    instagram: "https://www.instagram.com/deco.party.vilnohirsk"
+    instagram: ""
     schedule: |
       Пн - Нд: 13:00 - 23:00
       Перерва:
