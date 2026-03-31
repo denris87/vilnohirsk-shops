@@ -50,7 +50,7 @@ shops:
   # --- ОГОЛОШЕННЯ 4 ---
   - id: "shop-4"
     category: "Ресторан"
-    name: "Ресторан барбекю Grill House"
+    name: "Ресторан барбекю «Grill House»"
     instagram: "https://www.instagram.com/grillhouse.food"
     schedule: |
       Пн - Нд: 09:00 - 21:00
@@ -65,7 +65,7 @@ shops:
   # --- ОГОЛОШЕННЯ 5 ---
   - id: "shop-5"
     category: "Магазин"
-    name: "М’ясний Центр"
+    name: "Магазин «М’ясний Центр»"
     instagram: "https://www.instagram.com/myasnoy_volnik"
     schedule: |
       Пн - Сб: 09:00 - 20:00
@@ -81,7 +81,7 @@ shops:
   # --- ОГОЛОШЕННЯ 6 ---
   - id: "shop-6"
     category: "Зоомагазин"
-    name: "Зоомагазин Пітон"
+    name: "Зоомагазин "
     instagram: "https://www.instagram.com/pitonzoomagazin"
     schedule: |
       Пн, Вт, Чт, Пт: 09:00 - 19:00
@@ -111,3 +111,18 @@ shops:
     address: "вул. Молодіжна 34"
     map_link: "https://maps.app.goo.gl/ktDobt6ShHeg4rXj8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-47-22.jpg?raw=true"
+
+    # --- ОГОЛОШЕННЯ 8 ---
+  - id: "shop-8"
+    category: "Сервісцентр"
+    name: "Сервісцентр «AppleService»"
+    instagram: "https://www.instagram.com/appleservice_17"
+    schedule: |
+      Пн-Нд: 10:30 - 18:00
+      Перерва: 12:30 - 14:00
+    contactless: true
+    wifi: false
+    phone: "0970697017"
+    address: "ул. Центральна, 54 (Альтаїр, 2-й поверх, ліве крило)"
+    map_link: "https://maps.app.goo.gl/jWdTRCqnEUQmphNRA"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-10-29.jpg?raw=true"
