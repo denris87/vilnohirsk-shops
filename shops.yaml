@@ -99,7 +99,7 @@ shops:
     # --- ОГОЛОШЕННЯ 7 ---
   - id: "shop-7"
     category: "Рибалка"
-    name: "Павільйон "Fishing""
+    name: "Павільйон "Fishing"
     instagram: "https://www.instagram.com/pitonzoomagazin"
     schedule: |
       Вт - Сб: 08.00 - 18.00
