@@ -49,15 +49,15 @@ shops:
 
   # --- ОГОЛОШЕННЯ 4 ---
   - id: "shop-4"
-    category: ""
-    name: ""
-    instagram: ""
+    category: "ресторан"
+    name: "ресторан барбекю Grill House"
+    instagram: "https://www.instagram.com/grillhouse.food"
     schedule: |
-      Пн - Нд: 
+      Пн - Нд: 08:00 - 21:00
       Перерва: 
     contactless: false
-    wifi: true
-    phone: ""
-    address: ""
-    map_link: ""
-    photo: ""
+    wifi: false
+    phone: "0750258888"
+    address: "вул. Центральна, 43а"
+    map_link: "https://maps.app.goo.gl/bMuTfQKfRCcMVVEG7"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_18-54-28.jpg?raw=true"
