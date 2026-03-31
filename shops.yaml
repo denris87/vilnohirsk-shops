@@ -77,3 +77,21 @@ shops:
     address: "вул. Центральна 61-Б"
     map_link: "https://maps.app.goo.gl/7DZyXsdUG9BRw5Lg9"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-08-40.jpg?raw=true"
+
+    # --- ОГОЛОШЕННЯ 6 ---
+  - id: "shop-6"
+    category: "Зоомагазин"
+    name: "Зоомагазин Пітон"
+    instagram: "https://www.instagram.com/pitonzoomagazin"
+    schedule: |
+      Пн, Вт, Чт, Пт: 09:00 - 19:00
+      Ср: 09:00 - 17:50
+      Сб: 09:00 - 18:00
+      Нд: 12:00 - 18:00
+      Перерва: 14:00 - 14:30
+    contactless: true
+    wifi: false
+    phone: "0687012050, 0957012050"
+    address: "Провулок Соборний(біля АТБ)"
+    map_link: "https://maps.app.goo.gl/xwmEKBASnagKoCLH7"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-16-45.jpg?raw=true"
