@@ -2,7 +2,7 @@ shops:
   # --- ОГОЛОШЕННЯ 1 ---
   - id: "shop-1"
     category: "Кав'ярня"
-    name: "Кав'ярня «Coffee Лавка»"
+    name: " Coffee Лавка"
     instagram: "https://www.instagram.com/coffee_lavka_vln"
     schedule: |
       Пн - Нд: 08:00 - 21:00
@@ -34,7 +34,7 @@ shops:
   # --- ОГОЛОШЕННЯ 3 ---
   - id: "shop-3"
     category: "Зоомагазин"
-    name: "Зоомагазин «Лапка»"
+    name: "Лапка"
     instagram: "https://www.instagram.com/lapka_vln" 
     schedule: |
       Пн — Пт: 09:00 - 19:00
@@ -50,7 +50,7 @@ shops:
   # --- ОГОЛОШЕННЯ 4 ---
   - id: "shop-4"
     category: "Ресторан"
-    name: "Ресторан барбекю «Grill House»"
+    name: "Grill House"
     instagram: "https://www.instagram.com/grillhouse.food"
     schedule: |
       Пн - Нд: 09:00 - 21:00
@@ -65,7 +65,7 @@ shops:
   # --- ОГОЛОШЕННЯ 5 ---
   - id: "shop-5"
     category: "Магазин"
-    name: "Магазин «М’ясний Центр»"
+    name: "М’ясний Центр"
     instagram: "https://www.instagram.com/myasnoy_volnik"
     schedule: |
       Пн - Сб: 09:00 - 20:00
@@ -81,7 +81,7 @@ shops:
   # --- ОГОЛОШЕННЯ 6 ---
   - id: "shop-6"
     category: "Зоомагазин"
-    name: "Зоомагазин «Пітон»"
+    name: "Пітон"
     instagram: "https://www.instagram.com/pitonzoomagazin"
     schedule: |
       Пн, Вт, Чт, Пт: 09:00 - 19:00
@@ -115,7 +115,7 @@ shops:
     # --- ОГОЛОШЕННЯ 8 ---
   - id: "shop-8"
     category: "Сервісцентр"
-    name: "Сервісцентр «AppleService»"
+    name: "AppleService"
     instagram: "https://www.instagram.com/appleservice_17"
     schedule: |
       Пн-Нд: 10:30 - 18:00
@@ -130,7 +130,7 @@ shops:
     # --- ОГОЛОШЕННЯ 9 ---
   - id: "shop-9"
     category: "Страхування"
-    name: "Страхування «УпСК «Дніпро»"
+    name: "УпСК «Дніпро"
     instagram: ""
     schedule: |
       Пн-Нд: 10:30 - 18:00
@@ -142,3 +142,18 @@ shops:
     address: "Вул.Садова, 15а (колишня ощадкаса, вхід зі сторони 2-ї школи)"
     map_link: "https://maps.app.goo.gl/YdD2TdJhJaAU8pX49?g_st=com.google.maps.preview.copy"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-20-42.jpg?raw=true"
+
+     # --- ОГОЛОШЕННЯ 10 ---
+  - id: "shop-10"
+    category: "Меблевий магазин"
+    name: "Студія Меблі Style «M»"
+    instagram: ""
+    schedule: |
+      Пн -Пт: 10:00-17:00 
+      Перерва:
+    contactless: true
+    wifi: false
+    phone: "0675607525"
+    address: "вул. Бульвар Миру 9"
+    map_link: "https://maps.app.goo.gl/bigJv1CduZFmU7pJ8"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-46-51.jpg?raw=true"
