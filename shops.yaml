@@ -33,18 +33,18 @@ shops:
 
   # --- ОГОЛОШЕННЯ 3 ---
   - id: "shop-3"
-    category: ""
-    name: ""
-    instagram: "" # Якщо інстаграму немає, просто залиш лапки порожніми
+    category: "Зоомагазин"
+    name: "Зоомагазин «Лапка»"
+    instagram: "https://www.instagram.com/lapka_vln" 
     schedule: |
-      Пн - Сб: 
-      Нд: 
+      Пн — Пт: 09:00 - 19:00
+      Сб — Нд: 09:00 - 16:00
     contactless: true
     wifi: false
-    phone: ""
-    address: "
-    map_link: ""
-    photo: ""
+    phone: "0967757004"
+    address: "вул. Центральна, 22"
+    map_link: "https://maps.app.goo.gl/UUPZYAKNcfoC9NKw8?g_st=ic"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_18-33-23.jpg?raw=true"
 
   # --- ОГОЛОШЕННЯ 4 ---
   - id: "shop-4"
