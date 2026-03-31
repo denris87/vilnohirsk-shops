@@ -95,3 +95,20 @@ shops:
     address: "Провулок Соборний(біля АТБ)"
     map_link: "https://maps.app.goo.gl/xwmEKBASnagKoCLH7"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-16-45.jpg?raw=true"
+
+    # --- ОГОЛОШЕННЯ 7 ---
+  - id: "shop-7"
+    category: "Рибалка"
+    name: "Павільйон "Fishing""
+    instagram: "https://www.instagram.com/pitonzoomagazin"
+    schedule: |
+      Пт - Сб: 08.00 - 18.00
+      Нд: 08.00 - 12.00
+      Перерва: 12.00-14.00
+      Понеділок: Вихідний
+    contactless: true
+    wifi: false
+    phone: "0687183187"
+    address: "вул. Молодіжна 34"
+    map_link: "https://maps.app.goo.gl/ktDobt6ShHeg4rXj8"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-47-22.jpg?raw=true"
