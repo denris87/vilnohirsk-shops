@@ -25,7 +25,6 @@ shops:
       Сб - Нд: 08:00 - 14:00
       Перерва:
     contactless: true
-    wifi: false
     phone: "0675675801 (Володимир), 0673427373 (Павло)"
     address: "вул. Центральна 20"
     map_link: "https://maps.app.goo.gl/xzm395pr6ZxEEJAu8"
@@ -41,7 +40,6 @@ shops:
       Сб — Нд: 09:00 - 16:00
       Перерва:
     contactless: true
-    wifi: false
     phone: "0967757004"
     address: "вул. Центральна, 22"
     map_link: "https://maps.app.goo.gl/UUPZYAKNcfoC9NKw8?g_st=ic"
@@ -72,7 +70,6 @@ shops:
       Нд: 09:00 - 17:00
       Перерва: 
     contactless: true
-    wifi: false
     phone: " 0966538386"
     address: "вул. Центральна 61-Б"
     map_link: "https://maps.app.goo.gl/7DZyXsdUG9BRw5Lg9"
@@ -90,7 +87,6 @@ shops:
       Нд: 12:00 - 18:00
       Перерва: 14:00 - 14:30
     contactless: true
-    wifi: false
     phone: "0687012050, 0957012050"
     address: "Провулок Соборний(біля АТБ)"
     map_link: "https://maps.app.goo.gl/xwmEKBASnagKoCLH7"
@@ -106,7 +102,6 @@ shops:
       Нд: 08.00 - 12.00
       Перерва: 12.00-14.00
     contactless: true
-    wifi: false
     phone: "0687183187"
     address: "вул. Молодіжна 34"
     map_link: "https://maps.app.goo.gl/ktDobt6ShHeg4rXj8"
@@ -121,7 +116,6 @@ shops:
       Пн-Нд: 10:30 - 18:00
       Перерва: 12:30 - 14:00
     contactless: true
-    wifi: false
     phone: "0970697017"
     address: "ул. Центральна, 54 (Альтаїр, 2-й поверх, ліве крило)"
     map_link: "https://maps.app.goo.gl/jWdTRCqnEUQmphNRA"
@@ -137,7 +131,6 @@ shops:
       Сб - Нд: за попередньою домовленістю 
       Перерва: 12:30 - 14:00
     contactless: true
-    wifi: false
     phone: "0972628669"
     address: "Вул.Садова, 15а (колишня ощадкаса, вхід зі сторони 2-ї школи)"
     map_link: "https://maps.app.goo.gl/YdD2TdJhJaAU8pX49?g_st=com.google.maps.preview.copy"
@@ -152,7 +145,6 @@ shops:
       Пн -Пт: 10:00-17:00 
       Перерва:
     contactless: true
-    wifi: false
     phone: "0675607525"
     address: "вул. Бульвар Миру 9"
     map_link: "https://maps.app.goo.gl/bigJv1CduZFmU7pJ8"
