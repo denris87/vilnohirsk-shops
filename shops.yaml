@@ -62,7 +62,7 @@ shops:
     map_link: "https://maps.app.goo.gl/bMuTfQKfRCcMVVEG7"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_18-54-28.jpg?raw=true"
 
-    # --- ОГОЛОШЕННЯ 5 ---
+  # --- ОГОЛОШЕННЯ 5 ---
   - id: "shop-5"
     category: "Магазин"
     name: "М’ясний Центр"
@@ -78,7 +78,7 @@ shops:
     map_link: "https://maps.app.goo.gl/7DZyXsdUG9BRw5Lg9"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-08-40.jpg?raw=true"
 
-    # --- ОГОЛОШЕННЯ 6 ---
+  # --- ОГОЛОШЕННЯ 6 ---
   - id: "shop-6"
     category: "Зоомагазин"
     name: "Зоомагазин Пітон"
@@ -96,10 +96,10 @@ shops:
     map_link: "https://maps.app.goo.gl/xwmEKBASnagKoCLH7"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-16-45.jpg?raw=true"
 
-    # --- ОГОЛОШЕННЯ 7 ---
+  # --- ОГОЛОШЕННЯ 7 ---
   - id: "shop-7"
     category: "Рибалка"
-    name: "Павільйон "Fishing"
+    name: "Павільйон «Fishing»"
     instagram: "https://www.instagram.com/pitonzoomagazin"
     schedule: |
       Вт - Сб: 08.00 - 18.00
