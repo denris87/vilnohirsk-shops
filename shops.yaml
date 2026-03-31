@@ -209,7 +209,7 @@ shops:
     map_link: "https://maps.app.goo.gl/Diq6kQwqnyVJXM9j9"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-12-27.jpg?raw=true"
 
- # --- ОГОЛОШЕННЯ 15 ---
+   # --- ОГОЛОШЕННЯ 15 ---
   - id: "shop-15"
     category: "Магазин"
     name: "Ольга"
@@ -236,4 +236,18 @@ shops:
     address: "ТРК Альтаір (1 поверх зліва)"
     map_link: "https://maps.app.goo.gl/B6pGACeUvQvEsepa8?g_st=com.google.maps.preview.copy"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-20-06.jpg?raw=true"
+
+    # --- ОГОЛОШЕННЯ 17 ---
+  - id: "shop-17"
+    category: "Більярд"
+    name: "Більярд"
+    instagram: "https://www.instagram.com/deco.party.vilnohirsk"
+    schedule: |
+      Пн - Нд: 13:00 - 23:00
+      Перерва:
+    contactless: true
+    phone: "0939791570"
+    address: "вул. Молодіжна, 38А(будинок побуту)"
+    map_link: "https://maps.app.goo.gl/MJZKyqV9sceMFJKV6"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-24-05.jpg?raw=true"
 
