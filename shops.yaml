@@ -50,7 +50,7 @@ shops:
   # --- ОГОЛОШЕННЯ 4 ---
   - id: "shop-4"
     category: "ресторан"
-    name: "ресторан барбекю Grill House"
+    name: "Ресторан барбекю Grill House"
     instagram: "https://www.instagram.com/grillhouse.food"
     schedule: |
       Пн - Нд: 08:00 - 21:00
