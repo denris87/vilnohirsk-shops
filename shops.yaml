@@ -49,11 +49,11 @@ shops:
 
   # --- ОГОЛОШЕННЯ 4 ---
   - id: "shop-4"
-    category: "ресторан"
+    category: "Ресторан"
     name: "Ресторан барбекю Grill House"
     instagram: "https://www.instagram.com/grillhouse.food"
     schedule: |
-      Пн - Нд: 08:00 - 21:00
+      Пн - Нд: 09:00 - 21:00
       Перерва: 
     contactless: true
     wifi: true
@@ -61,3 +61,19 @@ shops:
     address: "вул. Центральна, 43а"
     map_link: "https://maps.app.goo.gl/bMuTfQKfRCcMVVEG7"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_18-54-28.jpg?raw=true"
+
+    # --- ОГОЛОШЕННЯ 5 ---
+  - id: "shop-5"
+    category: "Магазин"
+    name: "М’ясний Центр"
+    instagram: "https://www.instagram.com/myasnoy_volnik"
+    schedule: |
+      Пн - Сб: 09:00 - 20:00
+      Нд: 09:00 - 17:00
+      Перерва: 
+    contactless: true
+    wifi: false
+    phone: " 0966538386"
+    address: "вул. Центральна 61-Б"
+    map_link: "https://maps.app.goo.gl/7DZyXsdUG9BRw5Lg9"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-08-40.jpg?raw=true"
