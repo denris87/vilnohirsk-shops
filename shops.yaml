@@ -2,7 +2,7 @@ shops:
   # --- ОГОЛОШЕННЯ 1 ---
   - id: "shop-1"
     category: "Кав'ярня"
-    name: "Coffee Лавка"
+    name: "Кав'ярня «Coffee Лавка»"
     instagram: "https://www.instagram.com/coffee_lavka_vln"
     schedule: |
       Пн - Нд: 08:00 - 21:00
@@ -81,7 +81,7 @@ shops:
   # --- ОГОЛОШЕННЯ 6 ---
   - id: "shop-6"
     category: "Зоомагазин"
-    name: "Зоомагазин "
+    name: "Зоомагазин «Пітон»"
     instagram: "https://www.instagram.com/pitonzoomagazin"
     schedule: |
       Пн, Вт, Чт, Пт: 09:00 - 19:00
