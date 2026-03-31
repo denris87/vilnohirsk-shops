@@ -102,10 +102,9 @@ shops:
     name: "Павільйон "Fishing""
     instagram: "https://www.instagram.com/pitonzoomagazin"
     schedule: |
-      Пт - Сб: 08.00 - 18.00
+      Вт - Сб: 08.00 - 18.00
       Нд: 08.00 - 12.00
       Перерва: 12.00-14.00
-      Понеділок: Вихідний
     contactless: true
     wifi: false
     phone: "0687183187"
