@@ -55,8 +55,8 @@ shops:
     schedule: |
       Пн - Нд: 08:00 - 21:00
       Перерва: 
-    contactless: false
-    wifi: false
+    contactless: true
+    wifi: true
     phone: "0750258888"
     address: "вул. Центральна, 43а"
     map_link: "https://maps.app.goo.gl/bMuTfQKfRCcMVVEG7"
