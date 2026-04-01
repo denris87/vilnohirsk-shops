@@ -251,3 +251,33 @@ shops:
     map_link: "https://maps.app.goo.gl/MJZKyqV9sceMFJKV6"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-24-05.jpg?raw=true"
 
+     # --- ОГОЛОШЕННЯ 18 ---
+  - id: "shop-18"
+    category: "Комп'ютерний сервіс"
+    name: "Кібермаг"
+    instagram: ""
+    schedule: |
+      Пн - Пт: 9:00 - 19:00 
+      Сб - Нд: 9:00 - 15:00
+      Перерва:
+    contactless: true
+    phone: "0675660377, 0505660377"
+    address: "вул. Центральна 75"
+    map_link: "https://maps.app.goo.gl/pkqncDp7HLdqzCVW8"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-04-01_16-26-33.jpg?raw=true"
+
+    # --- ОГОЛОШЕННЯ 19 ---
+  - id: "shop-19"
+    category: "Копіцентр"
+    name: "Кібермаг"
+    instagram: ""
+    schedule: |
+      Пн - Пт: 9:00 - 19:00 
+      Сб - Нд: 9:00 - 15:00
+      Перерва:
+    contactless: true
+    phone: "0665660377, 0635660377"
+    address: "вул. Центральна 75"
+    map_link: "https://maps.app.goo.gl/pkqncDp7HLdqzCVW8"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-04-01_16-26-33.jpg?raw=true"
+
