@@ -46,23 +46,9 @@ shops:
     map_link: "https://maps.app.goo.gl/UUPZYAKNcfoC9NKw8?g_st=ic"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_18-33-23.jpg?raw=true"
 
+  
   # --- ОГОЛОШЕННЯ 4 ---
   - id: "shop-4"
-    category: "Ресторан"
-    name: "Grill House"
-    instagram: ""
-    schedule: |
-      Пн - Нд: 09:00 - 21:00
-      Перерва: 
-    contactless: true
-    wifi: true
-    phone: "0750258888"
-    address: "вул. Центральна, 43а"
-    map_link: "https://maps.app.goo.gl/bMuTfQKfRCcMVVEG7"
-    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_18-54-28.jpg?raw=true"
-
-  # --- ОГОЛОШЕННЯ 5 ---
-  - id: "shop-5"
     category: "Магазин"
     name: "М’ясний Центр"
     instagram: ""
@@ -76,8 +62,8 @@ shops:
     map_link: "https://maps.app.goo.gl/7DZyXsdUG9BRw5Lg9"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-08-40.jpg?raw=true"
 
-  # --- ОГОЛОШЕННЯ 6 ---
-  - id: "shop-6"
+  # --- ОГОЛОШЕННЯ 5 ---
+  - id: "shop-5"
     category: "Зоомагазин"
     name: "Пітон"
     instagram: ""
@@ -93,8 +79,8 @@ shops:
     map_link: "https://maps.app.goo.gl/xwmEKBASnagKoCLH7"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-16-45.jpg?raw=true"
 
-  # --- ОГОЛОШЕННЯ 7 ---
-  - id: "shop-7"
+  # --- ОГОЛОШЕННЯ 6 ---
+  - id: "shop-6"
     category: "Рибалка"
     name: "Павільйон «Fishing»"
     instagram: ""
@@ -108,8 +94,8 @@ shops:
     map_link: "https://maps.app.goo.gl/ktDobt6ShHeg4rXj8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-47-22.jpg?raw=true"
 
-    # --- ОГОЛОШЕННЯ 8 ---
-  - id: "shop-8"
+    # --- ОГОЛОШЕННЯ 7 ---
+  - id: "shop-7"
     category: "Сервісцентр"
     name: "AppleService"
     instagram: ""
@@ -122,8 +108,8 @@ shops:
     map_link: "https://maps.app.goo.gl/jWdTRCqnEUQmphNRA"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-10-29.jpg?raw=true"
 
-    # --- ОГОЛОШЕННЯ 9 ---
-  - id: "shop-9"
+    # --- ОГОЛОШЕННЯ 8 ---
+  - id: "shop-8"
     category: "Страхування"
     name: "УпСК «Дніпро»"
     instagram: ""
@@ -137,8 +123,8 @@ shops:
     map_link: "https://maps.app.goo.gl/YdD2TdJhJaAU8pX49?g_st=com.google.maps.preview.copy"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-20-42.jpg?raw=true"
 
-     # --- ОГОЛОШЕННЯ 10 ---
-  - id: "shop-10"
+     # --- ОГОЛОШЕННЯ 9 ---
+  - id: "shop-9"
     category: "Меблевий магазин"
     name: "Студія Меблі Style «M»"
     instagram: ""
@@ -151,8 +137,8 @@ shops:
     map_link: "https://maps.app.goo.gl/bigJv1CduZFmU7pJ8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-46-51.jpg?raw=true"
 
-    # --- ОГОЛОШЕННЯ 11 ---
-  - id: "shop-11"
+    # --- ОГОЛОШЕННЯ 10 ---
+  - id: "shop-10"
     category: "Будівельний магазин"
     name: "Будівельні матеріали"
     instagram: ""
@@ -166,94 +152,8 @@ shops:
     map_link: "https://maps.app.goo.gl/goxxjprD1aC84j517"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-54-05.jpg?raw=true"
 
-    # --- ОГОЛОШЕННЯ 12 ---
-  - id: "shop-12"
-    category: "Обмін валют"
-    name: "eKURS"
-    instagram: ""
-    schedule: |
-      Пн - Нд: 08:00 - 19:00
-      Перерва:
-    contactless: true
-    phone: "0953791800, 0967471032"
-    address: "вул. Центральна 61-Б"
-    map_link: "https://maps.app.goo.gl/aBVt2a6vuXBsedTQ6?g_st=com.google.maps.preview.copy"
-    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-00-48.jpg?raw=true"
-
-    # --- ОГОЛОШЕННЯ 13 ---
-  - id: "shop-13"
-    category: "Дитячий магазин"
-    name: "Lolly Kids"
-    instagram: ""
-    schedule: |
-      Пн - Сб: 09:00 - 19:00
-      Вс: 09:00 - 18:00
-      Перерва:
-    contactless: true
-    phone: "0682938105"
-    address: "вул. Центральна 47"
-    map_link: "https://maps.app.goo.gl/CYAeF4r8L6471ZkC6?g_st=com.google.maps.preview.copy"
-    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-08-46.jpg?raw=true"
-
-    # --- ОГОЛОШЕННЯ 14 ---
-  - id: "shop-14"
-    category: "Кафе"
-    name: "У Петровича"
-    instagram: ""
-    schedule: |
-      Пн - Нд: 11:00-24:00
-      Перерва:
-    contactless: true
-    Пакунок малюка: true
-    phone: "0681440933, 0679677536"
-    address: "ул. Центральна, 79В"
-    map_link: "https://maps.app.goo.gl/Diq6kQwqnyVJXM9j9"
-    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-12-27.jpg?raw=true"
-
-   # --- ОГОЛОШЕННЯ 15 ---
-  - id: "shop-15"
-    category: "Магазин"
-    name: "Ольга"
-    instagram: ""
-    schedule: |
-      Пн - Нд: 08:00-21:00
-      Перерва:
-    contactless: true
-    phone: ""
-    address: "ул. Центральна, 79В"
-    map_link: "https://maps.app.goo.gl/Diq6kQwqnyVJXM9j9"
-    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-12-27.jpg?raw=true"
-
-    # --- ОГОЛОШЕННЯ 16 ---
-  - id: "shop-16"
-    category: "Крамниця"
-    name: "DECO flowers"
-    instagram: ""
-    schedule: |
-      Пн - Нд: 08:00 - 19:00
-      Перерва:
-    contactless: true
-    phone: "0977819554"
-    address: "ТРК Альтаір (1 поверх зліва)"
-    map_link: "https://maps.app.goo.gl/B6pGACeUvQvEsepa8?g_st=com.google.maps.preview.copy"
-    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-20-06.jpg?raw=true"
-
-    # --- ОГОЛОШЕННЯ 17 ---
-  - id: "shop-17"
-    category: "Більярд"
-    name: "Більярд"
-    instagram: ""
-    schedule: |
-      Пн - Нд: 13:00 - 23:00
-      Перерва:
-    contactless: true
-    phone: "0939791570"
-    address: "вул. Молодіжна, 38А(будинок побуту)"
-    map_link: "https://maps.app.goo.gl/MJZKyqV9sceMFJKV6"
-    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_21-24-05.jpg?raw=true"
-
-     # --- ОГОЛОШЕННЯ 18 ---
-  - id: "shop-18"
+     # --- ОГОЛОШЕННЯ 11 ---
+  - id: "shop-11"
     category: "Комп'ютерний сервіс"
     name: "Кібермаг"
     instagram: ""
@@ -267,8 +167,8 @@ shops:
     map_link: "https://maps.app.goo.gl/pkqncDp7HLdqzCVW8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-04-01_16-26-33.jpg?raw=true"
 
-    # --- ОГОЛОШЕННЯ 19 ---
-  - id: "shop-19"
+    # --- ОГОЛОШЕННЯ 12 ---
+  - id: "shop-12"
     category: "Копіцентр"
     name: "Кібермаг"
     instagram: ""
@@ -281,4 +181,3 @@ shops:
     address: "вул. Центральна 75"
     map_link: "https://maps.app.goo.gl/pkqncDp7HLdqzCVW8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-04-01_16-26-33.jpg?raw=true"
-
