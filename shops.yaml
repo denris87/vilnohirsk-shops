@@ -12,7 +12,6 @@ shops:
     wifi: true
     phone: ""
     address: "Площа Героїв (біля ПК)"
-    map_link: ""
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-30_22-17-03.jpg?raw=true"
 
   # --- ОГОЛОШЕННЯ 2 ---
@@ -27,7 +26,6 @@ shops:
     contactless: true
     phone: "0675675801 (Володимир), 0673427373 (Павло)"
     address: "вул. Центральна 20"
-    map_link: "https://maps.app.goo.gl/xzm395pr6ZxEEJAu8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-30_22-24-27.jpg?raw=true"
 
   # --- ОГОЛОШЕННЯ 3 ---
@@ -43,7 +41,6 @@ shops:
     vip: true
     phone: "0967757004"
     address: "вул. Центральна, 22"
-    map_link: "https://maps.app.goo.gl/UUPZYAKNcfoC9NKw8?g_st=ic"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_18-33-23.jpg?raw=true"
 
   
@@ -59,7 +56,6 @@ shops:
     contactless: true
     phone: " 0966538386"
     address: "вул. Центральна 61-Б"
-    map_link: "https://maps.app.goo.gl/7DZyXsdUG9BRw5Lg9"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-08-40.jpg?raw=true"
 
   # --- ОГОЛОШЕННЯ 5 ---
@@ -76,7 +72,6 @@ shops:
     contactless: true
     phone: "0687012050, 0957012050"
     address: "Провулок Соборний(біля АТБ)"
-    map_link: "https://maps.app.goo.gl/xwmEKBASnagKoCLH7"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-16-45.jpg?raw=true"
 
   # --- ОГОЛОШЕННЯ 6 ---
@@ -91,7 +86,6 @@ shops:
     contactless: true
     phone: "0687183187"
     address: "вул. Молодіжна 34"
-    map_link: "https://maps.app.goo.gl/ktDobt6ShHeg4rXj8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_19-47-22.jpg?raw=true"
 
     # --- ОГОЛОШЕННЯ 7 ---
@@ -105,7 +99,6 @@ shops:
     contactless: true
     phone: "0970697017"
     address: "ул. Центральна, 54 (Альтаїр, 2-й поверх, ліве крило)"
-    map_link: "https://maps.app.goo.gl/jWdTRCqnEUQmphNRA"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-10-29.jpg?raw=true"
 
     # --- ОГОЛОШЕННЯ 8 ---
@@ -120,7 +113,6 @@ shops:
     contactless: true
     phone: "0972628669"
     address: "Вул.Садова, 15а (колишня ощадкаса, вхід зі сторони 2-ї школи)"
-    map_link: "https://maps.app.goo.gl/YdD2TdJhJaAU8pX49?g_st=com.google.maps.preview.copy"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-20-42.jpg?raw=true"
 
      # --- ОГОЛОШЕННЯ 9 ---
@@ -134,7 +126,6 @@ shops:
     contactless: true
     phone: "0675607525"
     address: "вул. Бульвар Миру 9"
-    map_link: "https://maps.app.goo.gl/bigJv1CduZFmU7pJ8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-46-51.jpg?raw=true"
 
     # --- ОГОЛОШЕННЯ 10 ---
@@ -149,7 +140,6 @@ shops:
     contactless: true
     phone: "0970517229"
     address: "вул. Юрія Устенка 1-Л(старий ринок)"
-    map_link: "https://maps.app.goo.gl/goxxjprD1aC84j517"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-03-31_20-54-05.jpg?raw=true"
 
      # --- ОГОЛОШЕННЯ 11 ---
@@ -164,7 +154,6 @@ shops:
     contactless: true
     phone: "0675660377, 0505660377"
     address: "вул. Центральна 75"
-    map_link: "https://maps.app.goo.gl/pkqncDp7HLdqzCVW8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-04-01_16-26-33.jpg?raw=true"
 
     # --- ОГОЛОШЕННЯ 12 ---
@@ -179,5 +168,4 @@ shops:
     contactless: true
     phone: "0665660377, 0635660377"
     address: "вул. Центральна 75"
-    map_link: "https://maps.app.goo.gl/pkqncDp7HLdqzCVW8"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-04-01_16-26-33.jpg?raw=true"
