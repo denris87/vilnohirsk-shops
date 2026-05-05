@@ -168,3 +168,17 @@ shops:
     phone: "0665660377, 0635660377"
     address: "вул. Центральна 75"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-04-01_16-26-33.jpg?raw=true"
+
+    # --- ОГОЛОШЕННЯ 13 ---
+  - id: "shop-13"
+    category: "Глемпінг"
+    name: "Глемпінг «Очерет»"
+    instagram: "https://www.instagram.com/ocheret.glamping"
+    schedule: |
+      Пн - Нд: Цілодобово з 8 травня по жовтень 
+      Перерва:
+    contactless: true
+    phone: "0965895408"
+    address: "с. Саївка. Вул. Дачна (О. Кошового), 17"
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/IMG_6252.jpeg-01_16-26-33.jpg?raw=true"
+
