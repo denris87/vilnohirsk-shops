@@ -171,7 +171,7 @@ shops:
 
     # --- ОГОЛОШЕННЯ 13 ---
   - id: "shop-13"
-    vip: true
+    vip: false
     category: "Глемпінг"
     name: "Глемпінг «Очерет»"
     instagram: "https://www.instagram.com/ocheret.glamping"
