@@ -1,4 +1,17 @@
 shops:
+# --- ОГОЛОШЕННЯ 0 ---
+  - id: "shop-0"
+    vip: true
+    category: "Тут може бути ваша реклама"
+    name: "Ваша реклама тут — всього 250 грн/місяць."
+    instagram: "t.me/vilnohirsk"
+    schedule: |
+    contactless: true
+    wifi: false
+    phone: ""
+    address: ""
+    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/18_38_48.png?raw=true"
+    
   # --- ОГОЛОШЕННЯ 1 ---
   - id: "shop-1"
     category: "Кав'ярня"
@@ -169,18 +182,4 @@ shops:
     address: "вул. Центральна 75"
     photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/photo_2026-04-01_16-26-33.jpg?raw=true"
 
-    # --- ОГОЛОШЕННЯ 13 ---
-  - id: "shop-13"
-    vip: false
-    category: "Глемпінг"
-    name: "Глемпінг «Очерет»"
-    instagram: "https://www.instagram.com/ocheret.glamping"
-    schedule: |
-      Пн - Нд: Цілодобово з 8 травня по жовтень 
-      Перерва:
-    contactless: true
-    phone: "0965895408"
-    address: "с. Саївка. Вул. Дачна (О. Кошового), 17"
-    photo: "https://github.com/denris87/vilnohirsk-shops/blob/main/IMG_6252.jpeg?raw=true"
-
-
+    
