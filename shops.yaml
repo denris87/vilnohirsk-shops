@@ -3,8 +3,8 @@ shops:
   - id: "shop-0"
     vip: true
     category: "Ваша реклама тут всього 250 грн/місяць."
-    name: "За подробицями пишіть: t.me/vilnohirsk"
-    instagram: "t.me/vilnohirsk"
+    name: "За подробицями пишіть у телеграм @vilnohirsk"
+    instagram: ""
     schedule: |
     contactless: false
     wifi: false
